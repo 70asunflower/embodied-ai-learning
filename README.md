@@ -30,10 +30,11 @@ _Empty — add your first dataset!_
 
 </details>
 
-<details>
+<details open>
 <summary>4-Tutorials-Courses</summary>
 
-_Empty — add your first tutorial!_
+- [UPenn 机器人学: 运动学](0-Resources/4-Tutorials-Courses/upenn-robotics-kinematics.md) — UPenn 专项课程，B站搬运+课件，含正逆运动学与 Jacobian
+- [📄 Tutorials Index](0-Resources/4-Tutorials-Courses/README.md)
 
 </details>
 
