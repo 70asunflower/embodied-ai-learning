@@ -33,7 +33,7 @@ _Empty — add your first dataset!_
 <details open>
 <summary>4-Tutorials-Courses</summary>
 
-- [UPenn 机器人学: 运动学](0-Resources/4-Tutorials-Courses/upenn-robotics-kinematics.md) — UPenn 专项课程，B站搬运+课件，含正逆运动学与 Jacobian
+- [台大机器人学之运动学——林沛群](0-Resources/4-Tutorials-Courses/ntu-robotics-kinematics-lin-peiqun.md) — 台大专项课程，B站搬运+课件，含正逆运动学与 Jacobian
 - [📄 Tutorials Index](0-Resources/4-Tutorials-Courses/README.md)
 
 </details>
@@ -52,10 +52,11 @@ _Empty — add your first project!_
 <details open>
 <summary><b>📝 Personal Notes</b></summary>
 
-<details>
+<details open>
 <summary>1-Foundations</summary>
 
-_Empty — add your first note!_
+- [台大机器人学 Lecture 1: 道沦](1-Notes/1-Foundations/ntu-robotics-kinematics-lecture1.pdf)
+- [台大机器人学 Lecture 2: 旋转矩阵与坐标系变换](1-Notes/1-Foundations/ntu-robotics-kinematics-lecture2.pdf)
 
 </details>
 
