@@ -33,8 +33,9 @@ tags: [robotics, kinematics, course, video, chinese, coursera, lin-peiqun]
 ## Personal Notes
 
 - [Lecture 1: 道沦](.../1-Notes/1-Foundations/ntu-robotics-kinematics-lecture1.pdf)
-- [Lecture 2: 旋转矩阵与坐标系变换](.../1-Notes/1-Foundations/ntu-robotics-kinematics-lecture2.pdf)
+- [Lecture 2: 旋转矩阵与转角](.../1-Notes/1-Foundations/ntu-robotics-kinematics-lecture2.pdf)
+- [Lecture 3: 顺向运动学引言](.../1-Notes/1-Foundations/ntu-robotics-kinematics-lecture3.pdf)
 
 ---
 
-_Last updated: 2026-04-08_
+_Last updated: 2026-04-27_
