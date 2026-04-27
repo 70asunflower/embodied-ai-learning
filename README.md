@@ -56,7 +56,8 @@ _Empty — add your first project!_
 <summary>1-Foundations</summary>
 
 - [台大机器人学 Lecture 1: 道沦](1-Notes/1-Foundations/ntu-robotics-kinematics-lecture1.pdf)
-- [台大机器人学 Lecture 2: 旋转矩阵与坐标系变换](1-Notes/1-Foundations/ntu-robotics-kinematics-lecture2.pdf)
+- [台大机器人学 Lecture 2: 旋转矩阵与转角](1-Notes/1-Foundations/ntu-robotics-kinematics-lecture2.pdf)
+- [台大机器人学 Lecture 3: 顺向运动学引言](1-Notes/1-Foundations/ntu-robotics-kinematics-lecture3.pdf)
 
 </details>
 
