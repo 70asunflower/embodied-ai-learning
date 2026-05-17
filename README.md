@@ -39,10 +39,11 @@ _Empty — add your first dataset!_
 
 </details>
 
-<details>
+<details open>
 <summary>5-Projects-OpenSource</summary>
 
-_Empty — add your first project!_
+- [Embodied-AI-Guide](0-Resources/5-Projects-OpenSource/embodied-ai-guide.md) — 国内最热门具身智能中文知识库，13.7k⭐，覆盖算法/基础设施/控制/硬件全栈
+- [📄 Projects Index](0-Resources/5-Projects-OpenSource/README.md)
 
 </details>
 
