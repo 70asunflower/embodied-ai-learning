@@ -9,10 +9,11 @@
 <details open>
 <summary><b>📚 Resources</b></summary>
 
-<details>
+<details open>
 <summary>1-Papers</summary>
 
-_Empty — add your first paper!_
+- [A Functional Taxonomy of World Models — 李飞飞](0-Resources/1-Papers/fei-fei-li-world-model-taxonomy.md) — 世界模型三分法：渲染器/模拟器/规划器，附原文 PDF
+- [📄 Papers Index](0-Resources/1-Papers/README.md)
 
 </details>
 
@@ -205,3 +206,4 @@ embodied-ai-learning/
 |------------|-----------------------------------------------|
 | 2026-03-31 | Repository init, directory structure, wiki nav|
 | 2026-03-31 | Added note template                           |
+| 2026-06-05 | Added Fei-Fei Li World Model Taxonomy paper + Papers category init |
