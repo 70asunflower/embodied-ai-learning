@@ -36,6 +36,8 @@ _Empty — add your first dataset!_
 
 - [台大机器人学之运动学——林沛群](0-Resources/4-Tutorials-Courses/ntu-robotics-kinematics-lin-peiqun.md) — 台大专项课程，B站搬运+课件，含正逆运动学与 Jacobian
 - [ROS 2机器人开发从入门到实践](0-Resources/4-Tutorials-Courses/ros2-robot-development-from-zero-to-practice.md) — 鱼香ROS 171集系统课程，530w+播放，从安装到真机导航实战
+- [Learn World Model (Datawhale)](0-Resources/4-Tutorials-Courses/learn-world-model.md) — 世界模型系统教程：5讲理论+5个项目，RSSM/Dreamer/TD-MPC
+- [Dive Into Embodied AI (Datawhale)](0-Resources/4-Tutorials-Courses/dive-into-embodied-ai.md) — 从零搭建具身机器人：决策(RL/VLA)→控制→感知全链路
 - [📄 Tutorials Index](0-Resources/4-Tutorials-Courses/README.md)
 
 </details>
@@ -207,3 +209,4 @@ embodied-ai-learning/
 | 2026-03-31 | Repository init, directory structure, wiki nav|
 | 2026-03-31 | Added note template                           |
 | 2026-06-05 | Added Fei-Fei Li World Model Taxonomy paper + Papers category init |
+| 2026-06-05 | Added Datawhale: Learn World Model + Dive Into Embodied AI tutorials |
