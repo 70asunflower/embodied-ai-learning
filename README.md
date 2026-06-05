@@ -47,6 +47,7 @@ _Empty — add your first dataset!_
 <summary>5-Projects-OpenSource</summary>
 
 - [Embodied-AI-Guide](0-Resources/5-Projects-OpenSource/embodied-ai-guide.md) — 国内最热门具身智能中文知识库，13.7k⭐，覆盖算法/基础设施/控制/硬件全栈
+- [Embodied-AI-Paper-TopConf](0-Resources/5-Projects-OpenSource/embodied-ai-paper-topconf.md) — 顶会具身智能论文清单，600+篇，11+会议，按子方向分类
 - [📄 Projects Index](0-Resources/5-Projects-OpenSource/README.md)
 
 </details>
@@ -212,3 +213,4 @@ embodied-ai-learning/
 | 2026-06-05 | Added Fei-Fei Li World Model Taxonomy paper + Papers category init |
 | 2026-06-05 | Added Datawhale: Learn World Model + Dive Into Embodied AI tutorials |
 | 2026-06-05 | Added 世界模型科普级综述 (Datawhale 赵志民) — 80 年发展史 + 五大路线 + 附 PDF |
+| 2026-06-05 | Added Embodied-AI-Paper-TopConf — 顶会论文清单 600+篇 |
