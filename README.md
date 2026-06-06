@@ -14,6 +14,7 @@
 
 - [A Functional Taxonomy of World Models — 李飞飞](0-Resources/1-Papers/fei-fei-li-world-model-taxonomy.md) — 世界模型三分法：渲染器/模拟器/规划器，附原文 PDF
 - [世界模型科普级综述 — Datawhale 赵志民](0-Resources/1-Papers/world-model-comprehensive-survey-datawhale.md) — 80 年发展史 + 五大技术路线 + 三大路线之争，附原文 PDF
+- [具身智能（Embodied AI）文献综述](0-Resources/1-Papers/embodied-ai-literature-survey.md) — 零基础入门综述：起源/技术/进展/挑战，附原文 PDF
 - [📄 Papers Index](0-Resources/1-Papers/README.md)
 
 </details>
@@ -214,3 +215,4 @@ embodied-ai-learning/
 | 2026-06-05 | Added Datawhale: Learn World Model + Dive Into Embodied AI tutorials |
 | 2026-06-05 | Added 世界模型科普级综述 (Datawhale 赵志民) — 80 年发展史 + 五大路线 + 附 PDF |
 | 2026-06-05 | Added Embodied-AI-Paper-TopConf — 顶会论文清单 600+篇 |
+| 2026-06-06 | Added 具身智能文献综述 — 零基础入门综述，附PDF |
