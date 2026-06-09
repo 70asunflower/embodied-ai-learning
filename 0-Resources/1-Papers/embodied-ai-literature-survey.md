@@ -1,5 +1,5 @@
 ---
-source: https://mp.weixin.qq.com/s/Hg8uPMjTMX8Tk7slrVvfNA
+source: null
 date: 2026-06-06
 tags: [embodied-ai, survey, beginner, literature-review, foundation]
 ---
